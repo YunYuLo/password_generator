@@ -1,6 +1,6 @@
 # 密碼產生器
 使用express打造自動產生客製化的密碼，使用者可自訂密碼長度、密碼元素（英文大小寫、數字、符號)，另外可個別排除不喜歡的符號或數字。
-![main page](https://raw.githubusercontent.com/YunYuLo/restaurant_list/master/public/img/main.png)
+![main page](https://github.com/YunYuLo/password_generator/blob/master/public/index.png)
 
 # Environment Requirements
 1. Node.js 4.0 or above
